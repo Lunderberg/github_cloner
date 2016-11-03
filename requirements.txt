@@ -1,0 +1,3 @@
+github3.py
+GitPython
+ipython
